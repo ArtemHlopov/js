@@ -1,0 +1,58 @@
+{
+  "Malisheva": {
+    "name": "Малышева Елена Васильевна",
+    "spec": "pedi",
+    "time": "8-10",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yelena_Malysheva_2019.png/300px-Yelena_Malysheva_2019.png"
+  },
+  "Komarovski": {
+    "name": "Комаровский Евгений Олегович",
+    "spec": "pedi",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  },
+  "Doc1": {
+    "name": "Doc1 Doc1 Doc1",
+    "spec": "alerg",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  },
+  "Doc2": {
+    "name": "Doc2 Doc2 Doc2",
+    "spec": "alerg",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  },
+  "Doc3": {
+    "name": "Doc3 Doc3 Doc3",
+    "spec": "hir",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  },
+  "Doc4": {
+    "name": "Doc4 Doc4 Doc4",
+    "spec": "hir",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  },
+  "Doc5": {
+    "name": "Doc5 Doc5 Doc5",
+    "spec": "stom",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  },
+  "Doc6": {
+    "name": "Doc6 Doc6 Doc6",
+    "spec": "stom",
+    "time": "14-16",
+    "vacation": "false",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Komarovskiy_%28cropped%29.jpg/411px-Komarovskiy_%28cropped%29.jpg"
+  }
+}
